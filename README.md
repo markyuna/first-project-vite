@@ -1,1 +1,1 @@
-![Imagen del resultado final](assets/app.jpg)
+![Imagen del resultado final](src/assets/app.jpg)
